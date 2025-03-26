@@ -1,4 +1,4 @@
-# 🕵️ **A-to-Z Bug Bounty Hunting Tools** ![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🕵️ **A-to-Z Bug Bounty Hunting Tools** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools used by Bug Bounty hunters and security researchers for testing web applications, APIs, mobile apps, cloud applications, and network components. These tools assist in reconnaissance, scanning, fuzzing, exploitation, and reporting vulnerabilities.  
 
