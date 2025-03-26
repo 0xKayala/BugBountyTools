@@ -28,7 +28,8 @@ Tools for gathering public information about the target.
 - **[Gauplus](https://github.com/bp0lr/gauplus)** - Fetch URLs from various sources  
 - **[Waybackurls](https://github.com/tomnomnom/waybackurls)** - Fetch URLs from the Wayback Machine  
 - **[Katana](https://github.com/projectdiscovery/katana)** - Advanced web crawler  
-- **[Findomain](https://github.com/Findomain/Findomain)** - Fast domain discovery  
+- **[Findomain](https://github.com/Findomain/Findomain)** - Fast domain discovery
+- **[ParamSpider](https://github.com/devanshbatham/ParamSpider)** - Mining URLs from dark corners of Web Archives for bug hunting/fuzzing/further probing
 
 ---
 
@@ -100,7 +101,8 @@ Tools for assessing network security vulnerabilities.
 - **[Masscan](https://github.com/robertdavidgraham/masscan)** - Fast network scanning  
 - **[Shodan](https://www.shodan.io/)** - Internet-wide network reconnaissance  
 - **[RustScan](https://github.com/RustScan/RustScan)** - Fast network port scanning  
-- **[Zmap](https://github.com/zmap/zmap)** - Large-scale network scanner  
+- **[Zmap](https://github.com/zmap/zmap)** - Large-scale network scanner
+- **[NetFuzzer](https://github.com/0xKayala/NetFuzzer)** - NetFuzzer is a comprehensive network security assessment tool for internal and external network components, including Host Machines, Firewalls, Routers, Switches, Active Directory, SMBs, Printers, etc
 
 ---
 
@@ -132,6 +134,7 @@ Tools for fuzzing web applications and APIs.
 Tools for exploiting discovered vulnerabilities.  
 
 - **[Commix](https://github.com/commixproject/commix)** - Automated All-in-One OS Command Injection Exploitation Tool
+- **[Dalfox](https://github.com/hahwul/dalfox)** - Dalfox is a powerful open-source XSS scanner and utility focused on automation
 - **[Metasploit](https://github.com/rapid7/metasploit-framework)** - Exploitation framework  
 - **[Xsploit](https://github.com/BlackArch/blackarch/tree/master/exploits/xsploit)** - Exploit automation  
 - **[RouterSploit](https://github.com/threat9/routersploit)** - Exploiting routers and IoT devices  
