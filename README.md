@@ -23,8 +23,7 @@
 
 Tools for gathering public information about the target.  
 
-- **[Amass](https://github.com/owasp-amass/amass)** - In-depth reconnaissance and DNS enumeration  
-- **[Subfinder](https://github.com/projectdiscovery/subfinder)** - Passive subdomain discovery  
+- **[Amass](https://github.com/owasp-amass/amass)** - In-depth reconnaissance and DNS enumeration    
 - **[Assetfinder](https://github.com/tomnomnom/assetfinder)** - Find related domains  
 - **[Hakrawler](https://github.com/hakluke/hakrawler)** - Crawl web applications for endpoints  
 - **[Gauplus](https://github.com/bp0lr/gauplus)** - Fetch URLs from various sources  
@@ -38,6 +37,7 @@ Tools for gathering public information about the target.
 
 Essential for mapping an application's attack surface.  
 
+- **[Subfinder](https://github.com/projectdiscovery/subfinder)** - Passive subdomain discovery
 - **[Sublist3r](https://github.com/aboul3la/Sublist3r)** - Subdomain enumeration using multiple sources  
 - **[Knockpy](https://github.com/guelfoweb/knock)** - Subdomain discovery using dictionary attack  
 - **[Chaos](https://github.com/projectdiscovery/chaos-client)** - Find bug bounty subdomains from Chaos DB  
