@@ -21,8 +21,7 @@
 
 ## 🔍 Reconnaissance  
 
-Tools for gathering public information about the target.  
-
+Tools for gathering public information about the target.
 - **[Amass](https://github.com/owasp-amass/amass)** - In-depth reconnaissance and DNS enumeration    
 - **[Assetfinder](https://github.com/tomnomnom/assetfinder)** - Find related domains  
 - **[Hakrawler](https://github.com/hakluke/hakrawler)** - Crawl web applications for endpoints  
