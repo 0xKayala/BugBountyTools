@@ -109,7 +109,8 @@ Tools for assessing network security vulnerabilities.
 
 Automated tools for identifying vulnerabilities.  
 
-- **[Nessus](https://www.tenable.com/products/nessus)** - Commercial vulnerability scanner  
+- **[NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer)** - A Powerful Automation Tool for Web Vulnerability Scanning
+- **[Nessus](https://www.tenable.com/products/nessus)** - Commercial vulnerability scanner
 - **[OpenVAS](https://www.openvas.org/)** - Open-source vulnerability scanner  
 - **[Nikto](https://github.com/sullo/nikto)** - Web server vulnerability scanner  
 - **[WhatWeb](https://github.com/urbanadventurer/WhatWeb)** - Detect web technologies and vulnerabilities  
