@@ -16,18 +16,6 @@
 - [Fuzzing Tools](#-fuzzing-tools)
 - [Exploitation Tools](#-exploitation-tools)
 - [Reporting & Automation](#-reporting--automation)
----
-- [Red Teaming Engagements](#Red-Teaming-Engagements)
-- [Reconnaissance](#Reconnaissance)
-- [Initial Access](#Initial-Access)
-- [Delivery](#Delivery)
-- [Command and Control (C2)](#Command-and-Control-(C2))
-- [Credential Dumping](#Credential-Dumping)
-- [Privilege Escalation](#Privilege-Escalation)
-- [Defense Evasion](#Defense-Evasion)
-- [Persistence](#Persistence)
-- [Lateral Movement](#Lateral-Movement)
-- [Exfiltration](#Exfiltration)
 
 ---
 
