@@ -102,7 +102,7 @@ Tools for assessing network security vulnerabilities.
 - **[Shodan](https://www.shodan.io/)** - Internet-wide network reconnaissance  
 - **[RustScan](https://github.com/RustScan/RustScan)** - Fast network port scanning  
 - **[Zmap](https://github.com/zmap/zmap)** - Large-scale network scanner
-- **[NetFuzzer](https://github.com/0xKayala/NetFuzzer)** - NetFuzzer is a comprehensive network security assessment tool for internal and external network components, including Host Machines, Firewalls, Routers, Switches, Active Directory, SMBs, Printers, etc
+- **[NetFuzzer](https://github.com/0xKayala/NetFuzzer)** - NetFuzzer is a comprehensive network security assessment tool
 
 ---
 
