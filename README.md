@@ -5,18 +5,19 @@ A curated list of tools used by Bug Bounty hunters and security researchers for 
 ---
 
 ## 📌 Table of Contents  
-- [Reconnaissance](#-reconnaissance)  
-- [Subdomain Enumeration](#-subdomain-enumeration)  
-- [Web Application Testing](#-web-application-testing)  
-- [API Security Testing](#-api-security-testing)  
-- [Mobile App Security Testing](#-mobile-app-security-testing)  
-- [Cloud Security Testing](#-cloud-security-testing)  
-- [Network Security Testing](#-network-security-testing)  
-- [Vulnerability Scanners](#-vulnerability-scanners)  
-- [Fuzzing Tools](#-fuzzing-tools)  
-- [Exploitation Tools](#-exploitation-tools)  
-- [Reporting & Automation](#-reporting--automation)  
-
+- [Reconnaissance](#-reconnaissance)
+- [Subdomain Enumeration](#-subdomain-enumeration)
+- [Web Application Testing](#-web-application-testing)
+- [API Security Testing](#-api-security-testing)
+- [Mobile App Security Testing](#-mobile-app-security-testing)
+- [Cloud Security Testing](#-cloud-security-testing)
+- [Network Security Testing](#-network-security-testing)
+- [Vulnerability Scanners](#-vulnerability-scanners)
+- [Fuzzing Tools](#-fuzzing-tools)
+- [Exploitation Tools](#-exploitation-tools)
+- [Reporting & Automation](#-reporting--automation)
+---
+- [Red Teaming Engagements](#Red-Teaming-Engagements)
 ---
 
 ## 🔍 Reconnaissance  
@@ -128,7 +129,28 @@ Tools for fuzzing web applications and APIs.
 
 ---
 
-# Red Teaming Engagements stages and Tools used within them
+## 💥 Exploitation Tools  
+
+Tools for exploiting discovered vulnerabilities.  
+
+- **[Metasploit](https://github.com/rapid7/metasploit-framework)** - Exploitation framework  
+- **[Xsploit](https://github.com/BlackArch/blackarch/tree/master/exploits/xsploit)** - Exploit automation  
+- **[RouterSploit](https://github.com/threat9/routersploit)** - Exploiting routers and IoT devices  
+
+---
+
+## 📋 Reporting & Automation  
+
+Tools for automating recon and reporting vulnerabilities.  
+
+- **[Bugcrowd Templates](https://github.com/bugcrowd/vulnerability-rating-taxonomy)** - Reporting templates  
+- **[HackerOne Templates](https://github.com/Hacker0x01/hacker101)** - Reporting guidelines  
+- **[ReconFTW](https://github.com/six2dez/reconftw)** - Automated recon tool  
+- **[BountyIt](https://github.com/bassammaged/BountyIt)** - Bug bounty automation  
+
+---
+
+# Red Teaming Engagements
 
 > A curated list of security tools for bug bounty hunters, penetration testers, and ethical hackers. These tools help in reconnaissance, exploitation, privilege escalation, and more.
 
