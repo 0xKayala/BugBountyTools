@@ -132,6 +132,7 @@ Tools for fuzzing web applications and APIs.
 
 Tools for exploiting discovered vulnerabilities.  
 
+- **[Commix](https://github.com/commixproject/commix)** - Automated All-in-One OS Command Injection Exploitation Tool
 - **[Metasploit](https://github.com/rapid7/metasploit-framework)** - Exploitation framework  
 - **[Xsploit](https://github.com/BlackArch/blackarch/tree/master/exploits/xsploit)** - Exploit automation  
 - **[RouterSploit](https://github.com/threat9/routersploit)** - Exploiting routers and IoT devices  
