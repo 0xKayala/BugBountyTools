@@ -1,7 +1,7 @@
 # 📌 **A-to-Z Bug Bounty Tools** [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-# Different stages in Red Teaming Engagements and Tools used within them
+# Red Teaming Engagements stages and Tools used within them.
 
 > A curated list of security tools for bug bounty hunters, penetration testers, and ethical hackers. These tools help in reconnaissance, exploitation, privilege escalation, and more.
 
